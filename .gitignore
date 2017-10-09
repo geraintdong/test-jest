@@ -1,2 +1,5 @@
+#IDEs generated files
 .idea
+
+# npm
 node_modules
